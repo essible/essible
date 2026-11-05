@@ -56,7 +56,8 @@
 <b>How I work</b>
 <ul>
 <li>Root cause first, payload second</li>
-<li>Every writeup ends with the fix</li>
+<li>Explain why it works, not just what to type</li>
+<li>For web bugs, show how a real site should prevent it</li>
 <li>No passwords or flags from the platforms, ever</li>
 </ul>
 </td>
