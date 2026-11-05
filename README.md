@@ -7,7 +7,6 @@
 <p align="center">
   <a href="https://whoami.essible.workers.dev/whoami.json"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwhoami.essible.workers.dev%2Fwhoami.json&query=%24.focus&label=focus&color=E8453C&labelColor=0D1117&style=flat-square" alt="focus" /></a>
   <a href="https://whoami.essible.workers.dev/whoami.json"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwhoami.essible.workers.dev%2Fwhoami.json&query=%24.now&label=now&color=E8453C&labelColor=0D1117&style=flat-square" alt="now" /></a>
-  <a href="https://developer.mozilla.org/en-US/observatory/analyze?host=whoami.essible.workers.dev"><img src="https://img.shields.io/mozilla-observatory/grade/whoami.essible.workers.dev?label=observatory&labelColor=0D1117&style=flat-square" alt="Mozilla Observatory grade" /></a>
 </p>
 
 <div align="center">
@@ -32,7 +31,6 @@
 <a href="#user-content-writeups"><img src="https://img.shields.io/badge/Writeups-0D1117?style=for-the-badge" alt="Writeups" /></a>
 <a href="#user-content-progress"><img src="https://img.shields.io/badge/Progress-0D1117?style=for-the-badge" alt="Progress" /></a>
 <a href="#user-content-toolkit"><img src="https://img.shields.io/badge/Toolkit-0D1117?style=for-the-badge" alt="Toolkit" /></a>
-<a href="#user-content-site"><img src="https://img.shields.io/badge/This%20site-0D1117?style=for-the-badge" alt="This site" /></a>
 <a href="#user-content-contact"><img src="https://img.shields.io/badge/Contact-0D1117?style=for-the-badge" alt="Contact" /></a>
 
 </div>
@@ -113,7 +111,7 @@
   <img src="https://img.shields.io/badge/Wireshark-0D1117?style=for-the-badge&logo=wireshark&logoColor=E8453C" alt="Wireshark" />
   <img src="https://img.shields.io/badge/Nmap-0D1117?style=for-the-badge" alt="Nmap" />
   <img src="https://img.shields.io/badge/netcat-0D1117?style=for-the-badge" alt="netcat" />
-  <img src="https://img.shields.io/badge/OpenSSL-0D1117?style=for-the-badge&logo=openssl&logoColor=E8453C" alt="OpenSSL" />
+  <img src="https://img.shields.io/badge/OpenSSL-0D1117?style=for-the-badge" alt="OpenSSL" />
   <img src="https://img.shields.io/badge/SSH-0D1117?style=for-the-badge" alt="SSH" />
 </p>
 <p align="center">
@@ -133,28 +131,12 @@
 
 <br /><br />
 
-<h2 align="center" id="site">🛡️ This site</h2>
-
-<p align="center">
-  <a href="https://github.com/essible/whoami"><b>essible/whoami</b></a>: the source of <a href="https://whoami.essible.workers.dev">my site</a>. A static Astro build that sets no cookies, loads nothing from third parties, and enforces a strict Content-Security-Policy with Trusted Types.
-</p>
-
-<p align="center">
-  <a href="https://developer.mozilla.org/en-US/observatory/analyze?host=whoami.essible.workers.dev"><img src="https://img.shields.io/mozilla-observatory/grade/whoami.essible.workers.dev?label=Mozilla%20Observatory&labelColor=0D1117&style=for-the-badge" alt="Mozilla Observatory grade" /></a>
-  <img src="https://img.shields.io/badge/CSP-strict-E8453C?style=for-the-badge&labelColor=0D1117" alt="CSP: strict" />
-  <img src="https://img.shields.io/badge/Trusted%20Types-enforced-E8453C?style=for-the-badge&labelColor=0D1117" alt="Trusted Types: enforced" />
-  <img src="https://img.shields.io/badge/cookies-0-E8453C?style=for-the-badge&labelColor=0D1117" alt="cookies: 0" />
-  <img src="https://img.shields.io/badge/trackers-0-E8453C?style=for-the-badge&labelColor=0D1117" alt="trackers: 0" />
-  <a href="https://whoami.essible.workers.dev/.well-known/security.txt"><img src="https://img.shields.io/badge/security.txt-RFC%209116-E8453C?style=for-the-badge&labelColor=0D1117" alt="security.txt: RFC 9116" /></a>
-</p>
-
-<br /><br />
-
 <h2 align="center" id="contact">📫 Contact</h2>
 
 <p align="center">
   <a href="mailto:essible@proton.me"><img src="https://img.shields.io/badge/Email-essible%40proton.me-000000?style=for-the-badge&labelColor=0D1117&logo=protonmail&logoColor=E8453C" alt="Email: essible@proton.me" /></a>
   <a href="https://whoami.essible.workers.dev"><img src="https://img.shields.io/badge/Site-whoami.essible.workers.dev-000000?style=for-the-badge&labelColor=0D1117&logo=cloudflare&logoColor=E8453C" alt="Site: whoami.essible.workers.dev" /></a>
+  <a href="https://github.com/essible/whoami"><img src="https://img.shields.io/badge/Source-essible%2Fwhoami-000000?style=for-the-badge&labelColor=0D1117&logo=github&logoColor=E8453C" alt="Source: essible/whoami" /></a>
 </p>
 
 <p align="center">
