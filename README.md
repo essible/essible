@@ -93,7 +93,7 @@
 <tr><th>Track</th><th>Platform</th><th>Status</th></tr>
 <tr><td>Bandit</td><td>OverTheWire</td><td><img src="https://img.shields.io/badge/completed-34%2F34%20levels-3FB950?style=flat-square&labelColor=0D1117" alt="completed, 34 of 34 levels" /></td></tr>
 <tr><td>Natas</td><td>OverTheWire</td><td><img src="https://img.shields.io/badge/solved-levels%200%E2%80%938-D29922?style=flat-square&labelColor=0D1117" alt="levels 0 to 8 solved" /></td></tr>
-<tr><td>SQL injection</td><td>PortSwigger</td><td><img src="https://img.shields.io/badge/in%20progress-about%20half-E8453C?style=flat-square&labelColor=0D1117" alt="in progress, about half" /></td></tr>
+<tr><td>SQL injection</td><td>PortSwigger</td><td><img src="https://img.shields.io/badge/in%20progress-25%2F51-E8453C?style=flat-square&labelColor=0D1117" alt="in progress, 25 of 51" /></td></tr>
 <tr><td>Authentication</td><td>PortSwigger</td><td><img src="https://img.shields.io/badge/up%20next-6E7681?style=flat-square" alt="up next" /></td></tr>
 <tr><td>Path traversal</td><td>PortSwigger</td><td><img src="https://img.shields.io/badge/up%20next-6E7681?style=flat-square" alt="up next" /></td></tr>
 <tr><td>Command injection</td><td>PortSwigger</td><td><img src="https://img.shields.io/badge/up%20next-6E7681?style=flat-square" alt="up next" /></td></tr>
